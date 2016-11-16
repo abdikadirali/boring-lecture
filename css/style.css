@@ -1,14 +1,7 @@
-h2.intro {
+.intro {
 	color: green;
 }
 
-p.intro {
-	color: #660066;
-}
-
-img.intro {
-	color: green;
-}
 
 body {
 	background-color: #00ffff;
